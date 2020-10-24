@@ -1,0 +1,265 @@
+hr {
+    border: 1px solid black;
+    margin: 50px 0;
+}
+
+/***Header***/
+body{
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.header-area {
+    background-image: url(images/IMG_9952.jpg);
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+    color: #fff;
+}
+.header-area a.nav-link {
+    color: #fff!important;
+}
+.header-area img {
+    width: 50%;
+}
+.header-area h1 {
+    color: #fff;
+    font-size: 50px;
+    padding-bottom: 25px;
+}
+.header-area h4 {
+    font-size: 18px;
+    padding-bottom: 5px;
+}
+.header-area h3 {
+    font-size: 24px;
+    padding: 20px 0;
+}
+.header-area p {
+    font-style: italic;
+    text-decoration: underline;
+    padding: 20px 0;
+}
+.header-area a.btn.btn-success.bt-lg {
+    font-size: 22px;
+    padding: 15px 50px;
+}
+a.nav-link {
+    margin-right: 20px;
+    margin-top: -29px;
+}
+.header-text {
+    padding: 100px 0;
+}
+
+/***Header***/
+
+
+/***Header***/
+.explore-area {
+    background: #cef4ff;
+    padding-top: 35px;
+    padding-bottom: 15px;
+}
+.explore-area h2 {
+    color: #004c75;
+    font-size: 26px;
+    font-weight: 700;
+}
+.explore-area h2 p {
+    color: #004c75;
+    margin-bottom: 0;
+}
+.explore-area a.btn.btn-outline-info {
+    color: #0076FD;
+    border: 1px solid #0076ff;
+    padding: 10px 50px;
+    transition: .5s;
+}
+.explore-area a.btn.btn-outline-info:hover {
+    background: #0076ff;
+    color: #fff;
+}
+
+/***Header***/
+
+
+
+/***Header***/
+
+.plans-area {
+    padding: 100px 0;
+}
+.plans-area {
+    padding: 50px 0;
+}
+.plans-area .wp {
+    text-align: center;
+    padding: 25px 0;
+}
+.plans-area img {
+    padding: 30px 0;
+}
+.plans-area h2 {
+    font-size: 38px;
+    color: #3575d3;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 40px;
+}
+.plans-area h3 {
+    text-decoration: underline;
+    color: #3575d3;
+    font-size: 22px;
+    padding-bottom: 8px;
+}
+.plans-area p {
+    font-size: 14px;
+    width: 84%;
+    margin: auto;
+    color: #848484;
+}
+.plans-area a.btn.btn-success.btn-md {
+    padding: 5px 41px;
+}
+
+
+
+
+/***Header***/
+
+
+/***WP-pro***/
+.wp-area {
+    
+}
+.wp-area h2 {
+    font-size: 38px;
+    color: #3575d3;
+    padding-bottom: 10px;
+    padding-top: 40px;
+}
+.wp-area p {
+    font-size: 16px;
+    color: #848484;
+}
+.wp-area a.btn.btn-success.btn-md {
+    padding: 5px 41px;
+}
+.wp-area img {
+    width: 90%;
+    margin-left: 70px;
+}
+.wp-area .col-6.py-5 {
+    margin: 110px 0;
+}
+
+
+
+
+/***WP-pro***/
+
+
+/***Support***/
+.support-area {
+    background-image: url(images/laptop-2880.jpg);
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+    color: #fff;
+    padding: 80px 0;
+}
+.support-area h2 {
+    font-size: 38px;
+    color: #fff;
+    padding-bottom: 10px;
+    padding-top: 40px;
+
+}
+.support-area p {
+    padding: 15px 0;
+    width: 75%;
+}
+.support-area i.fas.fa-phone-alt {
+    font-size: 30px;
+    margin-left: 67px;
+}
+.support-area i.far.fa-comment {
+    font-size: 30px;
+    margin-left: 67px;
+}
+.support-area .row.mr-5 {
+    margin-left: -57px;
+}
+
+/***Support***/
+
+
+
+/***Blue Flash***/
+.blue-flash {
+    padding: 50px 0;
+}
+.blue-flash img {
+    width: 90%;
+    padding: 100px 0;
+}
+.blue-flash p {
+    font-size: 16px;
+    color: #848484;
+}
+.blue-flash a {
+    text-decoration: none;
+}
+.blue-flash h2 {
+    font-size: 38px;
+    color: #3575d3;
+    padding-bottom: 10px;
+    padding-top: 40px;
+}
+.blue-flash a.btn.btn-success.btn-md {
+    padding: 5px 41px;
+}
+.blue-flash .intro {
+    margin-top: 250px;
+}
+/***Blue Flash***/
+
+
+
+/***Footer***/
+
+.footer-area {
+    background: #4a83d8;
+    padding-top: 100px;
+    padding-bottom: 40px;
+}
+.footer-area h5 {
+    color: #fff;
+    font-size: 16px;
+    padding-bottom: 20px;
+}
+.footer-area a {
+    color: #fff;
+    font-size: 14px;
+    padding-bottom: 15px;
+    display: block;
+    text-decoration: none;
+}
+.footer-area img{
+   width: 30%;
+}
+.footer-area p {
+    color: #fff;
+    font-size: 12px;
+}
+.footer-area h4 {
+    color: #fff;
+    font-size: 22px;
+}
+.footer-area i {
+    font-size: 24px;
+    color: #fff;
+    padding: 15px 15px;
+}
+/***Footer***/
+
